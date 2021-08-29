@@ -14,14 +14,14 @@ The deployed webpage is accessible at https://tayloryingbhandari.github.io/UFOs/
 
 * Index Page
 
-<img width="1414" alt="image" src="https://user-images.githubusercontent.com/85265816/131266039-b2c611a1-5768-439b-a787-f9bb6bac6a9e.png">
+<img width="1407" alt="image" src="https://user-images.githubusercontent.com/85265816/131266054-f0b3e4ff-ddc2-4ecb-ab82-98dba48cf4d2.png">
 
  When user enter the index page there is the introduction content section.
  Alosm,users can click on the naviation bar to re-initalize the page or allowing quickly back to the home page.
 
 * Filtering by single or multiple parameters
 
-<img width="1407" alt="image" src="https://user-images.githubusercontent.com/85265816/131266054-f0b3e4ff-ddc2-4ecb-ab82-98dba48cf4d2.png">
+<img width="1414" alt="image" src="https://user-images.githubusercontent.com/85265816/131266039-b2c611a1-5768-439b-a787-f9bb6bac6a9e.png">
 
 Scrolling down to the index page, user can use the Filter Search by entering the desired date, city,state,country or shape. Once single or mutiple filters entered, the change is dectected and the table is updated.
 
