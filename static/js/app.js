@@ -7,11 +7,11 @@ function buildTable(data) {
     tbody.html("");  
     // Next, loop through each object in the data
     // and append a row and cells for each value in the row
-    data.foreach((dataRow)=>{
+    data.forEach((dataRow)=>{
         let row=tbody.append("tr");
         // Loop through each field in the dataRow and add
         // each value as a table cell (td)
-        Object.values(dataRow).foreach((val)=>{
+        Object.values(dataRow).forEach((val)=>{
             let cell=row.append("td");
             cell.text(val);
         });
